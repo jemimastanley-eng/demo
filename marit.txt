@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-marit is happy
-=======
 marit is angry
->>>>>>> c2f9ce8 (my changes)
+hello
